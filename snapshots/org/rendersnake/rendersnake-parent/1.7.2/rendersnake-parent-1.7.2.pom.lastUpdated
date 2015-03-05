@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Apr 07 14:34:33 CEST 2014
+default->http\://elab.lab.uvalight.net/artifactory/local/.lastUpdated=1396870152591
+>http\://elab.lab.uvalight.net/artifactory/local/.error=Could not transfer artifact org.rendersnake\:rendersnake-parent\:pom\:1.7.2 from/to elab.lab.uvalight.net (>http\://elab.lab.uvalight.net/artifactory/local)\: No connector available to access repository elab.lab.uvalight.net (>http\://elab.lab.uvalight.net/artifactory/local) of type default using the available factories WagonRepositoryConnectorFactory
+http\://elab.lab.uvalight.net/artifactory/repo/.lastUpdated=1396874073048
+http\://rendersnake.googlecode.com/svn/repo/.lastUpdated=1396870152911

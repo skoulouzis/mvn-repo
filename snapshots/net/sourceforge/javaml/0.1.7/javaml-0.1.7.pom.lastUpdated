@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Apr 16 16:20:49 CEST 2014
+default->http\://elab.lab.uvalight.net/artifactory/local/.lastUpdated=1397657972784
+>http\://elab.lab.uvalight.net/artifactory/local/.error=Could not transfer artifact net.sourceforge\:javaml\:pom\:0.1.7 from/to elab.lab.uvalight.net (>http\://elab.lab.uvalight.net/artifactory/local)\: No connector available to access repository elab.lab.uvalight.net (>http\://elab.lab.uvalight.net/artifactory/local) of type default using the available factories WagonRepositoryConnectorFactory
+http\://elab.lab.uvalight.net/artifactory/repo/.lastUpdated=1397658049481

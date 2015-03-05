@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun May 11 18:23:22 CEST 2014
+http\://repo2.maven.org/maven2/.lastUpdated=1399825402485
+b38cb7f8b6bf59413b3f75c2878ceb70883d1338@default-http\://elab.lab.uvalight.net/artifactory/repo/.lastUpdated=1399825402352
+http\://elab.lab.uvalight.net/artifactory/repo/.error=Could not transfer artifact com.sleepycat\:je\:pom\:4.0.92 from/to central (http\://elab.lab.uvalight.net/artifactory/repo)\: Connection to http\://elab.lab.uvalight.net refused

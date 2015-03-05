@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Dec 10 15:51:43 CET 2014
+sts-2.0.0-SNAPSHOT.jar>=
+sts-2.0.0-SNAPSHOT.pom>=
+sts-2.0.0-SNAPSHOT-tests.jar>=

@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Nov 08 16:23:26 CET 2013
+https\://elab.lab.uvalight.net\:8444/artifactory/repo/.error=Could not transfer artifact org.jclouds.provider\:synaptic-storage\:pom\:1.6.0-rc.1 from/to elab.lab.uvalight.net (https\://elab.lab.uvalight.net\:8444/artifactory/repo)\: Connection to https\://elab.lab.uvalight.net\:8444 refused
+http\://repo.maven.apache.org/maven2/.lastUpdated=1383924206426
+836970a5facf8b90af9f3bb1a64df12bbbbf2c9d@default-https\://elab.lab.uvalight.net\:8444/artifactory/repo/.lastUpdated=1383924206150

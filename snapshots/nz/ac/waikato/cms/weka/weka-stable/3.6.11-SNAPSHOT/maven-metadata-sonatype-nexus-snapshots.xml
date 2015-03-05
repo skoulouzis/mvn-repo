@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>nz.ac.waikato.cms.weka</groupId>
+  <artifactId>weka-stable</artifactId>
+  <version>3.6.11-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140520.130921</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140520130921</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>3.6.11-20140520.130921-1</value>
+        <updated>20140520130921</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>3.6.11-20140520.130921-1</value>
+        <updated>20140520130921</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

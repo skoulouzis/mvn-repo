@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.mkyong.common</groupId>
+  <artifactId>Struts2Example</artifactId>
+  <versioning>
+    <release>com.mkyong.common</release>
+    <versions>
+      <version>com.mkyong.common</version>
+    </versions>
+    <lastUpdated>20130917141240</lastUpdated>
+  </versioning>
+</metadata>

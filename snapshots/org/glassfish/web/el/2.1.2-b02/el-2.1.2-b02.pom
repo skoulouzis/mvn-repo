@@ -1,0 +1,65 @@
+<project xsi:schemaLocation='http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd' xmlns='http://maven.apache.org/POM/4.0.0' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>org.glassfish.web</groupId>
+    <artifactId>el</artifactId>
+    <version>2.1.2-b02</version>
+    <packaging>pom</packaging>
+    <name>Expression Language related modules</name>
+
+    <build>
+        <plugins>
+            <plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+                    <configuration>
+                        <source>1.5</source>
+                        <target>1.5</target>
+                    </configuration>
+            </plugin>
+        </plugins>
+        <extensions>
+            <extension>
+                <groupId>org.jvnet.wagon-svn</groupId>
+                <artifactId>wagon-svn</artifactId>
+            </extension>
+        </extensions>
+    </build>
+    <scm>
+        <connection>scm:svn:https://uel.dev.java.net/svn/uel/branches/2.1.2-b02</connection>
+        <developerConnection>scm:svn:https://uel.dev.java.net/svn/uel/branches/2.1.2-b02</developerConnection>
+        <url>https://uel.dev.java.net/source/browse/uel/trunk/</url>
+    </scm>
+
+    <repositories>
+        
+        
+    </repositories>
+    <pluginRepositories>
+        
+    </pluginRepositories>
+    <distributionManagement>
+        <repository>
+            <uniqueVersion>false</uniqueVersion>
+            <!-- the ID maps to ~/.m2/settings.xml, so don't change the ID -->
+            <id>rator.sfbay</id>
+            <url>dav:http://rator.sfbay.sun.com/maven/repositories/glassfish/</url>
+        </repository>
+    </distributionManagement>
+<!--
+    <distributionManagement>
+        <site>
+            <id>java.net-el</id>
+            <url>java-net:/uel/trunk/repo/</url>
+        </site>
+        <repository>
+            <uniqueVersion>false</uniqueVersion>
+            <id>java.net-maven2-repository</id>
+            <url>java-net:/maven2-repository/trunk/www/repository/</url>
+        </repository>
+    </distributionManagement>
+-->
+    <modules>
+        <module>api</module>
+        <module>impl</module>
+    </modules>
+</project>
+

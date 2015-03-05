@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>net.lobcder</groupId>
+  <artifactId>sc13Demo_lobcder_rest_client</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20131015232641</lastUpdated>
+  </versioning>
+</metadata>

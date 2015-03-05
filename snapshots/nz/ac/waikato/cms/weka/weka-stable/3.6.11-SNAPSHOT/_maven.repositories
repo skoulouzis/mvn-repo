@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue May 20 15:09:18 CEST 2014
+weka-stable-3.6.11-SNAPSHOT-javadoc.jar>=
+weka-stable-3.6.11-SNAPSHOT-test-sources.jar>=
+weka-stable-3.6.11-SNAPSHOT-tests.jar>=
+weka-stable-3.6.11-SNAPSHOT.jar>=
+weka-stable-3.6.11-SNAPSHOT-sources.jar>=
+weka-stable-3.6.11-SNAPSHOT.pom>=

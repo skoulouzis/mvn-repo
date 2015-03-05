@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Dec 10 15:53:05 CET 2014
+rackspace-cloudloadbalancers-uk-2.0.0-SNAPSHOT.pom>=
+rackspace-cloudloadbalancers-uk-2.0.0-SNAPSHOT-tests.jar>=
+rackspace-cloudloadbalancers-uk-2.0.0-SNAPSHOT.jar>=

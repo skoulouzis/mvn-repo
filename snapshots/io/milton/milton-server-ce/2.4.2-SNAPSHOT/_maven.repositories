@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Nov 24 12:34:21 CET 2014
+milton-server-ce-2.4.2-SNAPSHOT.jar>=
+milton-server-ce-2.4.2-SNAPSHOT.pom>snapshots=
+milton-server-ce-2.4.2-SNAPSHOT.pom>=
+milton-server-ce-2.4.2-SNAPSHOT.jar>central=

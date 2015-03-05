@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Nov 07 19:06:01 CET 2013
+lobcder-2.3.pom>=
+lobcder-2.3.war>=
+lobcder-2.3-classes.jar>=

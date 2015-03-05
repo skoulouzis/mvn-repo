@@ -1,0 +1,20 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>xapool</groupId>
+  <artifactId>xapool</artifactId>
+  <version>1.5.0-patch3</version>
+  <description>this is rice modified xapool</description>
+  
+  <scm>
+		<connection>scm:svn:https://test.kuali.org/svn/modified_source/xapool-1.5.0/trunk</connection>
+		<developerConnection>scm:svn:https://test.kuali.org/svn/modified_source/xapool-1.5.0/trunk</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://test.kuali.org/svn/modified_source/xapool-1.5.0/trunk</url>
+	</scm>
+	<distributionManagement>
+		<repository>
+			<id>ssh-repository</id>
+			<url>scp://test.kuali.org:/opt/m2/repository</url>
+		</repository>		
+	</distributionManagement>
+</project>

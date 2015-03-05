@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Oct 17 17:56:58 CEST 2013
+https\://elab.lab.uvalight.net\:8444/artifactory/repo/.error=Could not transfer artifact org.rendersnake\:rendersnake\:pom\:1.5 from/to elab.lab.uvalight.net (https\://elab.lab.uvalight.net\:8444/artifactory/repo)\: Connection to https\://elab.lab.uvalight.net\:8444 refused
+http\://repo2.maven.org/maven2/.error=
+http\://repo2.maven.org/maven2/.lastUpdated=1382025417986
+http\://mvnrepository.com/.lastUpdated=1382025418071
+http\://mvnrepository.com/.error=
+836970a5facf8b90af9f3bb1a64df12bbbbf2c9d@default-https\://elab.lab.uvalight.net\:8444/artifactory/repo/.lastUpdated=1382025418329
+http\://rendersnake.googlecode.com/svn/repo/.lastUpdated=1382025418832

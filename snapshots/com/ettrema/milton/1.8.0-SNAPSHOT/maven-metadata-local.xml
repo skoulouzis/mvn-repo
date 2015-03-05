@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.ettrema</groupId>
+  <artifactId>milton</artifactId>
+  <version>1.8.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20141120154732</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.8.0-SNAPSHOT</value>
+        <updated>20141120154732</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

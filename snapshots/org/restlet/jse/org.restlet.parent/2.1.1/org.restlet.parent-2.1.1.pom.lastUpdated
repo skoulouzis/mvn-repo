@@ -1,0 +1,11 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Jun 30 14:08:45 CEST 2013
+https\://elab.lab.uvalight.net\:8444/artifactory/repo/.error=
+http\://mvnrepository.com/.error=
+http\://repo2.maven.org/maven2/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1372594105457
+http\://mvnrepository.com/.lastUpdated=1372594085130
+https\://elab.lab.uvalight.net\:8444/artifactory/repo/.lastUpdated=1372594105320
+http\://repo.maven.apache.org/maven2/.error=
+http\://repo2.maven.org/maven2/.lastUpdated=1372594065645
+http\://maven.restlet.org/.lastUpdated=1372594125293
