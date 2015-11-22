@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>cryptix</groupId>
+  <artifactId>cryptix-jce-provder</artifactId>
+  <version>2.1</version>
+  <versioning>
+    <versions>
+      <version>2.1</version>
+    </versions>
+    <lastUpdated>20151122215655</lastUpdated>
+  </versioning>
+</metadata>
