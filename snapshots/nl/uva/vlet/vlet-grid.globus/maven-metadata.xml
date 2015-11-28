@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>nl.uva.vlet</groupId>
+  <artifactId>vlet-grid.globus</artifactId>
+  <version>1.5.0-dev-1</version>
+  <versioning>
+    <versions>
+      <version>1.5.0-dev-1</version>
+    </versions>
+    <lastUpdated>20151128183841</lastUpdated>
+  </versioning>
+</metadata>
