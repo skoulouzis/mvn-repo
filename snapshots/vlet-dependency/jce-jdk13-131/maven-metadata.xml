@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>vlet-dependency</groupId>
+  <artifactId>jce-jdk13-131</artifactId>
+  <version>0.1</version>
+  <versioning>
+    <versions>
+      <version>0.1</version>
+    </versions>
+    <lastUpdated>20151128181021</lastUpdated>
+  </versioning>
+</metadata>
