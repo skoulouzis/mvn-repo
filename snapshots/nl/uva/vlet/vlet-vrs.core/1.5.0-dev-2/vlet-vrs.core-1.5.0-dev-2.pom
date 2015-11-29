@@ -3,6 +3,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>nl.uva.vlet</groupId>
-  <artifactId>vlet-glite.lfc</artifactId>
-  <version>1.5.0-dev-1</version>
+  <artifactId>vlet-vrs.core</artifactId>
+  <version>1.5.0-dev-2</version>
 </project>

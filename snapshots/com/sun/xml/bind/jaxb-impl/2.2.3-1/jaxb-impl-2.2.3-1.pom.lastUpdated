@@ -1,7 +1,0 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Apr 07 13:29:09 CEST 2014
-http\://repo.maven.apache.org/maven2/.lastUpdated=1396870149293
-default->http\://elab.lab.uvalight.net/artifactory/local/.lastUpdated=1396870149058
-http\://rendersnake.googlecode.com/svn/repo/.error=
->http\://elab.lab.uvalight.net/artifactory/local/.error=Could not transfer artifact com.sun.xml.bind\:jaxb-impl\:pom\:2.2.3-1 from/to elab.lab.uvalight.net (>http\://elab.lab.uvalight.net/artifactory/local)\: No connector available to access repository elab.lab.uvalight.net (>http\://elab.lab.uvalight.net/artifactory/local) of type default using the available factories WagonRepositoryConnectorFactory
-http\://rendersnake.googlecode.com/svn/repo/.lastUpdated=1396870149239

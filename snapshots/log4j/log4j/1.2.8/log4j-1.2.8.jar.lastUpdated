@@ -1,5 +1,0 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sat Aug 10 16:42:40 EEST 2013
-https\://elab.lab.uvalight.net\:8444/artifactory/repo/.error=Could not transfer artifact log4j\:log4j\:jar\:1.2.8 from/to elab.lab.uvalight.net (https\://elab.lab.uvalight.net\:8444/artifactory/repo)\: No route to host
-http\://repo.maven.apache.org/maven2/.lastUpdated=1376142160071
-836970a5facf8b90af9f3bb1a64df12bbbbf2c9d@default-https\://elab.lab.uvalight.net\:8444/artifactory/repo/.lastUpdated=1376142158235

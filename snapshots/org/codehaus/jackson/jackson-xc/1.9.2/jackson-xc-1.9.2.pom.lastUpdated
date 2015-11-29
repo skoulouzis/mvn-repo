@@ -1,7 +1,0 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Apr 07 13:29:10 CEST 2014
-http\://repo.maven.apache.org/maven2/.lastUpdated=1396870150954
-default->http\://elab.lab.uvalight.net/artifactory/local/.lastUpdated=1396870150750
-http\://rendersnake.googlecode.com/svn/repo/.error=
->http\://elab.lab.uvalight.net/artifactory/local/.error=Could not transfer artifact org.codehaus.jackson\:jackson-xc\:pom\:1.9.2 from/to elab.lab.uvalight.net (>http\://elab.lab.uvalight.net/artifactory/local)\: No connector available to access repository elab.lab.uvalight.net (>http\://elab.lab.uvalight.net/artifactory/local) of type default using the available factories WagonRepositoryConnectorFactory
-http\://rendersnake.googlecode.com/svn/repo/.lastUpdated=1396870150902
