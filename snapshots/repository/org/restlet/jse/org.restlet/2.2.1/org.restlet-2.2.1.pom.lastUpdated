@@ -1,0 +1,12 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Nov 30 17:07:16 CET 2015
+http\://mvnrepository.com/.error=
+http\://repo2.maven.org/maven2/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1448899636918
+https\://raw.github.com/skoulouzis/mvn-repo/master/snapshots/.lastUpdated=1448899636149
+https\://raw.github.com/skoulouzis/mvn-repo/master/releases/.error=
+http\://mvnrepository.com/.lastUpdated=1448899634408
+http\://repo.maven.apache.org/maven2/.error=
+http\://repo2.maven.org/maven2/.lastUpdated=1448899633976
+https\://raw.github.com/skoulouzis/mvn-repo/master/snapshots/.error=
+https\://raw.github.com/skoulouzis/mvn-repo/master/releases/.lastUpdated=1448899636865
