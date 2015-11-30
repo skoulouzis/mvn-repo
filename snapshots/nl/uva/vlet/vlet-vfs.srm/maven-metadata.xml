@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>nl.uva.vlet</groupId>
+  <artifactId>vlet-vfs.srm</artifactId>
+  <version>1.5.0-dev-2</version>
+  <versioning>
+    <versions>
+      <version>1.5.0-dev-2</version>
+    </versions>
+    <lastUpdated>20151130133232</lastUpdated>
+  </versioning>
+</metadata>
