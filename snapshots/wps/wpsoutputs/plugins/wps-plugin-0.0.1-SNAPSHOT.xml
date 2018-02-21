@@ -9,7 +9,10 @@
 <repositories>
 <repository>http://www.mygrid.org.uk/maven/repository</repository>
 <repository>http://52north.org/maven/repo/releases</repository>
+<repository>http://repo2.maven.org/maven2</repository>
+<repository>http://mvnrepository.com</repository>
 <repository>https://raw.githubusercontent.com/skoulouzis/mvn-repo/master/snapshots</repository>
+<repository>https://raw.githubusercontent.com/skoulouzis/mvn-repo/master/releases</repository>
 <repository>https://repo.maven.apache.org/maven2</repository>
 <repository>http://www.mygrid.org.uk/maven/snapshot-repository</repository>
 <repository>http://uk.maven.org/maven2</repository>

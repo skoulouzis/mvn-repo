@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 31 13:29:36 CET 2018
+@default-my-repository-http\://repository.example.com/maven/repository/.lastUpdated=1517401739890
+https\://repo.maven.apache.org/maven2/.lastUpdated=1517401776972
+http\://www.mygrid.org.uk/maven/repository/.error=
+http\://www.mygrid.org.uk/maven/repository/.lastUpdated=1517401733532
+http\://repository.example.com/maven/repository/.error=Could not transfer artifact javax.help\:javahelp\:jar\:2.0.02 from/to my-repository (http\://repository.example.com/maven/repository)\: repository.example.com\: Name or service not known

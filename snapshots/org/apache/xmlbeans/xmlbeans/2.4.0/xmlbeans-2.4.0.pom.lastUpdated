@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 31 13:25:23 CET 2018
+@default-my-repository-http\://repository.example.com/maven/repository/.lastUpdated=1517401523615
+https\://repo.maven.apache.org/maven2/.lastUpdated=1517401523688
+http\://www.mygrid.org.uk/maven/repository/.error=
+http\://www.mygrid.org.uk/maven/repository/.lastUpdated=1517401523607
+http\://repository.example.com/maven/repository/.error=Could not transfer artifact org.apache.xmlbeans\:xmlbeans\:pom\:2.4.0 from/to my-repository (http\://repository.example.com/maven/repository)\: repository.example.com\: Name or service not known

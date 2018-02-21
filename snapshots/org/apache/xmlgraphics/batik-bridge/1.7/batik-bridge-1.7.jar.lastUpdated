@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 31 13:29:38 CET 2018
+@default-my-repository-http\://repository.example.com/maven/repository/.lastUpdated=1517401739896
+https\://repo.maven.apache.org/maven2/.lastUpdated=1517401778778
+http\://www.mygrid.org.uk/maven/repository/.error=
+http\://www.mygrid.org.uk/maven/repository/.lastUpdated=1517401736113
+http\://repository.example.com/maven/repository/.error=Could not transfer artifact org.apache.xmlgraphics\:batik-bridge\:jar\:1.7 from/to my-repository (http\://repository.example.com/maven/repository)\: repository.example.com
