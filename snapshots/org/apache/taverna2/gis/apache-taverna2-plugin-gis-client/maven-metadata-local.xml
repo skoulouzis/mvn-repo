@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.taverna2.gis</groupId>
+  <artifactId>apache-taverna2-plugin-gis-client</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-incubating-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180221183514</lastUpdated>
+  </versioning>
+</metadata>

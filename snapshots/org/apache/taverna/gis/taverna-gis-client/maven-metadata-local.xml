@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.taverna.gis</groupId>
+  <artifactId>taverna-gis-client</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-incubating-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180221180917</lastUpdated>
+  </versioning>
+</metadata>
