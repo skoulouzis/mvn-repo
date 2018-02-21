@@ -5,38 +5,38 @@
   <version>0.0.1-incubating-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20180221.182922</timestamp>
+      <timestamp>20180221.184312</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20180221182922</lastUpdated>
+    <lastUpdated>20180221184312</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-incubating-20180221.182922-1</value>
-        <updated>20180221182922</updated>
+        <value>0.0.1-incubating-20180221.184312-1</value>
+        <updated>20180221184312</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-incubating-20180221.182922-1</value>
-        <updated>20180221182922</updated>
+        <value>0.0.1-incubating-20180221.184312-1</value>
+        <updated>20180221184312</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.0.1-incubating-20180221.182922-1</value>
-        <updated>20180221182922</updated>
+        <value>0.0.1-incubating-20180221.184312-1</value>
+        <updated>20180221184312</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>test-sources</classifier>
         <extension>jar</extension>
-        <value>0.0.1-incubating-20180221.182922-1</value>
-        <updated>20180221182922</updated>
+        <value>0.0.1-incubating-20180221.184312-1</value>
+        <updated>20180221184312</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>tests</classifier>
         <extension>jar</extension>
-        <value>0.0.1-incubating-20180221.182922-1</value>
-        <updated>20180221182922</updated>
+        <value>0.0.1-incubating-20180221.184312-1</value>
+        <updated>20180221184312</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
