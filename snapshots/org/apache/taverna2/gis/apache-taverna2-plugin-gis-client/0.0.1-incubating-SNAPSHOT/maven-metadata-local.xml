@@ -7,29 +7,29 @@
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20180221183514</lastUpdated>
+    <lastUpdated>20180504133109</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
-        <classifier>tests</classifier>
+        <classifier>test-sources</classifier>
         <extension>jar</extension>
         <value>0.0.1-incubating-SNAPSHOT</value>
-        <updated>20180221183514</updated>
+        <updated>20180504133109</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
         <value>0.0.1-incubating-SNAPSHOT</value>
-        <updated>20180221183514</updated>
+        <updated>20180504133109</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
         <value>0.0.1-incubating-SNAPSHOT</value>
-        <updated>20180221183514</updated>
+        <updated>20180504133109</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>0.0.1-incubating-SNAPSHOT</value>
-        <updated>20180221183514</updated>
+        <updated>20180504133109</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
