@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>gr.forth.ics.isl</groupId>
+  <artifactId>x3ml-engine</artifactId>
+  <versioning>
+    <versions>
+      <version>1.8.5-SNAPSHOT</version>
+      <version>1.9.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180927090141</lastUpdated>
+  </versioning>
+</metadata>
