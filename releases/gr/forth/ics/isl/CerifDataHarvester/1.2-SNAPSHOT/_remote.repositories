@@ -1,4 +1,4 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Sep 25 12:59:26 EEST 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 05 17:25:00 CET 2018
 CerifDataHarvester-1.2-SNAPSHOT.pom>=
 CerifDataHarvester-1.2-SNAPSHOT.jar>=

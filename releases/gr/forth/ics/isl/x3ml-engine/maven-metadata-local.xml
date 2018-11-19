@@ -4,9 +4,8 @@
   <artifactId>x3ml-engine</artifactId>
   <versioning>
     <versions>
-      <version>1.8.5-SNAPSHOT</version>
       <version>1.9.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180927090141</lastUpdated>
+    <lastUpdated>20181106122706</lastUpdated>
   </versioning>
 </metadata>
