@@ -3,9 +3,10 @@
   <groupId>gr.forth.ics.isl</groupId>
   <artifactId>x3ml-engine</artifactId>
   <versioning>
+    <release>1.9.3</release>
     <versions>
-      <version>1.9.0-SNAPSHOT</version>
+      <version>1.9.3</version>
     </versions>
-    <lastUpdated>20181106122706</lastUpdated>
+    <lastUpdated>20200130101302</lastUpdated>
   </versioning>
 </metadata>
