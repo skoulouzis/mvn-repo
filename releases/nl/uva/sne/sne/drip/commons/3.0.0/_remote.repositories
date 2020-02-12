@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Feb 11 14:16:05 CET 2020
+commons-3.0.0.pom>=
+commons-3.0.0.jar>=
+commons-3.0.0-sources.jar>=

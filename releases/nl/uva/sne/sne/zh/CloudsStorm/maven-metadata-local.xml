@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>nl.uva.sne.zh</groupId>
+  <artifactId>CloudsStorm</artifactId>
+  <versioning>
+    <release>b.1.1</release>
+    <versions>
+      <version>b.1.1</version>
+    </versions>
+    <lastUpdated>20200130145417</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>nl.uva.sne.vre4eic</groupId>
+  <artifactId>cat_worker</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200130170946</lastUpdated>
+  </versioning>
+</metadata>
