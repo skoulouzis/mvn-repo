@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 21 13:55:21 CEST 2020
+sdia-commons-1.0.0.jar>=
+sdia-commons-1.0.0-sources.jar>=
+sdia-commons-1.0.0.pom>=
