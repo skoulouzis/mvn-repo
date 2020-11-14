@@ -1,6 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Nov 14 16:05:59 CET 2020
-https\://maven.pkg.github.com/qcdis-sdia/sdia-commons/.error=Could not transfer artifact nl.uva.qcdis.sdia\:sdia-commons\:pom\:1.0.3 from/to releases (https\://maven.pkg.github.com/qcdis-sdia/sdia-commons)\: Authentication failed for https\://maven.pkg.github.com/qcdis-sdia/sdia-commons/nl/uva/qcdis/sdia/sdia-commons/1.0.3/sdia-commons-1.0.3.pom 401 Unauthorized
-https\://repo.maven.apache.org/maven2/.lastUpdated=1605366359939
+#Sat Nov 14 17:18:00 CET 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1605370680138
+https\://raw.githubusercontent.com/skoulouzis/mvn-repo/master/releases/.lastUpdated=1605370680076
+https\://raw.githubusercontent.com/skoulouzis/mvn-repo/master/releases/.error=
 https\://repo.maven.apache.org/maven2/.error=
-@default-releases-https\://maven.pkg.github.com/qcdis-sdia/sdia-commons/.lastUpdated=1605366359831

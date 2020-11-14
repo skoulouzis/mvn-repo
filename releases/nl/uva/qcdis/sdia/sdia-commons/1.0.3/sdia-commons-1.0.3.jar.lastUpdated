@@ -1,4 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Nov 14 16:09:11 CET 2020
-https\://repo.maven.apache.org/maven2/.lastUpdated=1605366551193
+#Sat Nov 14 17:19:23 CET 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1605370763933
+https\://raw.githubusercontent.com/skoulouzis/mvn-repo/master/releases/.lastUpdated=1605370702431
+https\://raw.githubusercontent.com/skoulouzis/mvn-repo/master/releases/.error=
 https\://repo.maven.apache.org/maven2/.error=
